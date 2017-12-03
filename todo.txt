@@ -2,9 +2,9 @@ Złożoność obliczeniowa
 
 Sortowanie:
     bubblesort - done
-    insertionsort
-    selectionsort
-    quicksort
+    insertionsort - done
+    selectionsort - done
+    quicksort - done
     heapsort
     countingsort
     mergesort
