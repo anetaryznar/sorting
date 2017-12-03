@@ -1,7 +1,7 @@
 Złożoność obliczeniowa
 
 Sortowanie:
-    bubblesort
+    bubblesort - done
     insertionsort
     selectionsort
     quicksort
