@@ -1,11 +1,12 @@
 package pl.sdacademy.rozkocha.szymon.sorting;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Comparator;
 import java.util.List;
 
 public class QuickSort {
-    public static <Type> List<Type> sort(List<Type> list, Comparator<Type> comparator) {
+    public static <Type> List<Type> sort(Collection<Type> list, Comparator<Type> comparator) {
         List<Type> result = new ArrayList<>(list);
 
         if(list.size() < 2) {
